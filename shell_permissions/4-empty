@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo hello
 echo hello
