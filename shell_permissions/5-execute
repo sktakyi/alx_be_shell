@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo excute
+chmod 753 hello
