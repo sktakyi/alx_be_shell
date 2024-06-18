@@ -1,2 +1,2 @@
-#!/bin/bash\nchmod +x hello
-echo hello
+#!/bin/bash
+hello
