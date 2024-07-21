@@ -1,0 +1,2 @@
+#
+Alx Bash intro study
