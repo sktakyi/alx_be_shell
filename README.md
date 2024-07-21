@@ -1,2 +1,2 @@
 #
-Alx Bash intro study
+Alx Bash study
