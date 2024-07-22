@@ -1,5 +1,5 @@
 #
-Intro Bash 
+Bash Introduction
 
 ##
-Vim
+Vim Introduction
